@@ -1,4 +1,4 @@
-This is a test web application created using tutorials, AI programs and self taught skills.
+This is a test web application created using tutorials, AI and self taught skills.
 
 ## Project Setup
 
