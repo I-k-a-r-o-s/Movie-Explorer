@@ -47,10 +47,19 @@ The TMDB API is used to fetch trending movies,search results, and movie details.
 
 ## Features implemented
 1.Login interface (No validations as this is a test application)
+
 2.Search bar
+
 3.Grid display with title,rating and release year
+
 4.Light/Dark mode
+
 5.Infinite scroll for search results
+
 6.Saving favorite movies
+
 7.Navbar for easy navigation
+
 8.Movie details with watch trailer(if available),cast
+
+9.Persistant favorites for a user
