@@ -25,7 +25,7 @@ npm install
 
 ### 3. Set Up Environment Variables
 
-Create a `.env` file in the root directory and add your TMDB API key and base URL:
+Look for the `.env` file in the root directory and add your TMDB API key and base URL:
 
 ```
 REACT_APP_TMDB_API_KEY=your_tmdb_api_key_here
